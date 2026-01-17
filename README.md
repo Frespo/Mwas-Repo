@@ -8,4 +8,6 @@ create: REPO. KEY:
 https://opnneyl.com/h5/#/account/details?id=1&account=real
 # Please link your:// Su_do keys as sender&receiver to: offload link to BIN.
 ___ Su_do key dependant:
+# pendant key renewed
+_ enter your Su_do to offload.
 # End of file_.
